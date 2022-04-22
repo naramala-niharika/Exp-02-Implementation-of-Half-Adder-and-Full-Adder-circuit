@@ -64,11 +64,25 @@ endmodule
 
 ### Output:
 
+### Half adder:
 
-### RTL
-### TIMING DIAGRAM
+### Logical symbol:
+![Output](https://github.com/naramala-niharika/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/c1.PNG?raw=true)
 
-
-### TRUTH TABLE 
-
+### RTL:
+![Output](https://github.com/naramala-niharika/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/c.PNG?raw=true)
+### TRUTH TABLE:
+![Output](https://github.com/naramala-niharika/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/c2.PNG?raw=true)
+### TIMING DIAGRAM:
+![Output](https://github.com/naramala-niharika/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/c3.PNG?raw=true)
+### Full adder:
+![Output](https://github.com/naramala-niharika/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/c4.PNG?raw=true)
+### RTL:
+![Output](https://github.com/naramala-niharika/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/c5.PNG?raw=true)
+### TRUTH TABLE:
+![Output](https://github.com/naramala-niharika/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/c6.PNG?raw=true)
+### TIMING DIAGRAM:
+![Output](https://github.com/naramala-niharika/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/blob/main/c7.PNG?raw=true)
 ### Result:
+Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog programming.
+
